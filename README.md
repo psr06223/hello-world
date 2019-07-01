@@ -1,2 +1,5 @@
 # hello-world
-Starting GitHubs, idea repository
+
+Hi !
+
+I'm trying the branch thing.
